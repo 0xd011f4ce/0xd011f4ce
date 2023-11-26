@@ -64,7 +64,7 @@
                 <div class="anime-card">
                     <header class="anime-header">
                         <img
-                            src="resources/animes/lain.jpeg"
+                            src="https://raw.githubusercontent.com/0xd011f4ce/0xd011f4ce/main/resources/animes/lain.jpeg"
                             alt="Serial Experiments Lain Cover"
                             class="anime-cover"
                         />
@@ -89,7 +89,9 @@
 
                 <div class="anime-card">
                     <header class="anime-header">
-                        <img src="resources/animes/perfect_blue.jpeg" alt="Perfect blue cover"
+                        <img
+                            src="https://raw.githubusercontent.com/0xd011f4ce/0xd011f4ce/main/resources/animes/perfect_blue.jpeg"
+                            alt="Perfect blue cover"
                             class="anime-cover" />
                         <h2 class="anime-title">Perfect blue</h2>
                     </header>
@@ -112,7 +114,8 @@
 
                 <div class="anime-card">
                     <header class="anime-header">
-                        <img src="resources/animes/higurashi.jpeg"
+                        <img
+                            src="https://raw.githubusercontent.com/0xd011f4ce/0xd011f4ce/main/resources/animes/higurashi.jpeg"
                             alt="Higurashi No Naku Koro Ni Cover"
                             class="anime-cover" />
                         <h2 class="anime-title">Higurashi No Naku Koro Ni</h2>
@@ -137,7 +140,9 @@
 
                 <div class="anime-card">
                     <header class="anime-header">
-                        <img src="resources/animes/another.jpeg" alt="Another Cover" class="anime-cover" />
+                        <img
+                            src="https://raw.githubusercontent.com/0xd011f4ce/0xd011f4ce/main/resources/animes/another.jpeg"
+                            alt="Another Cover" class="anime-cover" />
                         <h2 class="anime-title">Another</h2>
                     </header>
 
@@ -159,7 +164,9 @@
 
                 <div class="anime-card">
                     <header class="anime-header">
-                        <img src="resources/animes/kyoukai.jpeg" alt="Kyoukai No Kanata Cover"
+                        <img
+                            src="https://raw.githubusercontent.com/0xd011f4ce/0xd011f4ce/main/resources/animes/kyoukai.jpeg"
+                            alt="Kyoukai No Kanata Cover"
                             class="anime-cover" />
                         <h2 class="anime-title">Kyoukai No Kanata</h2>
                     </header>
@@ -183,7 +190,9 @@
 
                 <div class="anime-card">
                     <header class="anime-header">
-                        <img src="resources/animes/bocchi.jpeg" alt="Hitoribocchi no marumaru seikatsu cover"
+                        <img
+                            src="https://raw.githubusercontent.com/0xd011f4ce/0xd011f4ce/main/resources/animes/bocchi.jpeg"
+                            alt="Hitoribocchi no marumaru seikatsu cover"
                             class="anime-cover" />
                         <h2 class="anime-title">Hitoribocchi no marumaru seikatsu</h2>
                     </header>
@@ -206,7 +215,9 @@
 
                 <div class="anime-card">
                     <header class="anime-header">
-                        <img src="resources/animes/himouto.jpeg" alt="Himouto! Umaru-chan cover"
+                        <img
+                            src="https://raw.githubusercontent.com/0xd011f4ce/0xd011f4ce/main/resources/animes/himouto.jpeg"
+                            alt="Himouto! Umaru-chan cover"
                             class="anime-cover" />
                         <h2 class="anime-title">Himouto! Umaru-chan</h2>
                     </header>
@@ -229,7 +240,8 @@
 
                 <div class="anime-card">
                     <header class="anime-header">
-                        <img src="resources/animes/kobayashi.jpeg"
+                        <img
+                            src="https://raw.githubusercontent.com/0xd011f4ce/0xd011f4ce/main/resources/animes/kobayashi.jpeg"
                             alt="Kobayashi-san chi no maid dragon cover" class="anime-cover" />
                         <h2 class="anime-title">Kobayashi-san chi no maid dragon</h2>
                     </header>
@@ -252,7 +264,9 @@
 
                 <div class="anime-card">
                     <header class="anime-header">
-                        <img src="resources/animes/love_is_war.jpeg" alt="Love is war cover"
+                        <img
+                            src="https://raw.githubusercontent.com/0xd011f4ce/0xd011f4ce/main/resources/animes/love_is_war.jpeg"
+                            alt="Love is war cover"
                             class="anime-cover" />
                         <h2 class="anime-title">Kaguya-sama: Love is war</h2>
                     </header>
