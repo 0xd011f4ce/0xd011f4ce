@@ -1,0 +1,281 @@
+<svg fill="none" viewBox="0 0 879 1469" width="879" height="1469" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+                }
+
+                .animes {
+                width: 586px;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 20px;
+                font-family: sans-serif;
+                font-size: 14px;
+                color: #272924;
+                margin: 20px;
+                }
+
+                .anime-card {
+                width: 273px;
+                height: 463px;
+                background-color: #e1dcd6;
+                padding: 20px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+                }
+
+                .anime-cover {
+                width: 100%;
+                height: 233px;
+                object-fit: cover;
+                }
+
+                .anime-title {
+                font-size: 30px;
+                font-weight: 800;
+                text-transform: uppercase;
+                letter-spacing: -1px;
+                line-height: 26px;
+                margin: 5px 0;
+                }
+
+                .information-placeholder {
+                display: flex;
+                gap: 5px;
+                align-items: center;
+                margin-bottom: 5px;
+                font-weight: 300;
+                }
+
+                .information-label {
+                font-size: 14px;
+                flex: 0 0 100px;
+                }
+
+                .information-content {
+                text-transform: uppercase;
+                }
+            </style>
+
+            <section class="animes">
+                <div class="anime-card">
+                    <header class="anime-header">
+                        <img
+                            src="resources/animes/lain.jpeg"
+                            alt="Serial Experiments Lain Cover"
+                            class="anime-cover"
+                        />
+                        <h2 class="anime-title">Serial Experiments Lain</h2>
+                    </header>
+
+                    <div class="anime-body">
+                        <p class="information-placeholder">
+                            <span class="information-label">running time</span>
+                            <span class="information-content">12 episodes</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">directed by</span>
+                            <span class="information-content">Ryutaro Nakamura</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">genre</span>
+                            <span class="information-content">Cyberpunk, Thriller</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="anime-card">
+                    <header class="anime-header">
+                        <img src="resources/animes/perfect_blue.jpeg" alt="Perfect blue cover"
+                            class="anime-cover" />
+                        <h2 class="anime-title">Perfect blue</h2>
+                    </header>
+
+                    <div class="anime-body">
+                        <p class="information-placeholder">
+                            <span class="information-label">running time</span>
+                            <span class="information-content">90 minutes</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">directed by</span>
+                            <span class="information-content">Satoshi kon</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">genre</span>
+                            <span class="information-content">Horror, Thriller, Mystery</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="anime-card">
+                    <header class="anime-header">
+                        <img src="resources/animes/higurashi.jpeg"
+                            alt="Higurashi No Naku Koro Ni Cover"
+                            class="anime-cover" />
+                        <h2 class="anime-title">Higurashi No Naku Koro Ni</h2>
+                    </header>
+
+                    <div class="anime-body">
+                        <p class="information-placeholder">
+                            <span class="information-label">running time</span>
+                            <span class="information-content">26 episodes</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">directed by</span>
+                            <span class="information-content">Chiaki Kon</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">genre</span>
+                            <span class="information-content">Mystery, Thriller, Horror,
+                                Supernatural</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="anime-card">
+                    <header class="anime-header">
+                        <img src="resources/animes/another.jpeg" alt="Another Cover" class="anime-cover" />
+                        <h2 class="anime-title">Another</h2>
+                    </header>
+
+                    <div class="anime-body">
+                        <p class="information-placeholder">
+                            <span class="information-label">running time</span>
+                            <span class="information-content">12 episodes</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">directed by</span>
+                            <span class="information-content">Tsutomu Mizushima</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">genre</span>
+                            <span class="information-content">Mystery, Thriller, Horror</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="anime-card">
+                    <header class="anime-header">
+                        <img src="resources/animes/kyoukai.jpeg" alt="Kyoukai No Kanata Cover"
+                            class="anime-cover" />
+                        <h2 class="anime-title">Kyoukai No Kanata</h2>
+                    </header>
+
+                    <div class="anime-body">
+                        <p class="information-placeholder">
+                            <span class="information-label">running time</span>
+                            <span class="information-content">12 episodes</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">directed by</span>
+                            <span class="information-content">Taichi Ishidate</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">genre</span>
+                            <span class="information-content">Fantasy, Supernatural, Slice of
+                                Life</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="anime-card">
+                    <header class="anime-header">
+                        <img src="resources/animes/bocchi.jpeg" alt="Hitoribocchi no marumaru seikatsu cover"
+                            class="anime-cover" />
+                        <h2 class="anime-title">Hitoribocchi no marumaru seikatsu</h2>
+                    </header>
+
+                    <div class="anime-body">
+                        <p class="information-placeholder">
+                            <span class="information-label">running time</span>
+                            <span class="information-content">12 episodes</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">directed by</span>
+                            <span class="information-content">Takebumi Anzai</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">genre</span>
+                            <span class="information-content">Comedy, Slice of Life</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="anime-card">
+                    <header class="anime-header">
+                        <img src="resources/animes/himouto.jpeg" alt="Himouto! Umaru-chan cover"
+                            class="anime-cover" />
+                        <h2 class="anime-title">Himouto! Umaru-chan</h2>
+                    </header>
+
+                    <div class="anime-body">
+                        <p class="information-placeholder">
+                            <span class="information-label">running time</span>
+                            <span class="information-content">12 episodes</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">directed by</span>
+                            <span class="information-content">Masahiko Ohta</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">genre</span>
+                            <span class="information-content">Comedy, Slice of Life</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="anime-card">
+                    <header class="anime-header">
+                        <img src="resources/animes/kobayashi.jpeg"
+                            alt="Kobayashi-san chi no maid dragon cover" class="anime-cover" />
+                        <h2 class="anime-title">Kobayashi-san chi no maid dragon</h2>
+                    </header>
+
+                    <div class="anime-body">
+                        <p class="information-placeholder">
+                            <span class="information-label">running time</span>
+                            <span class="information-content">13 episodes</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">directed by</span>
+                            <span class="information-content">Yasuhiro Takemoto</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">genre</span>
+                            <span class="information-content">Comedy, Slice of Life, Fantasy</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="anime-card">
+                    <header class="anime-header">
+                        <img src="resources/animes/love_is_war.jpeg" alt="Love is war cover"
+                            class="anime-cover" />
+                        <h2 class="anime-title">Kaguya-sama: Love is war</h2>
+                    </header>
+
+                    <div class="anime-body">
+                        <p class="information-placeholder">
+                            <span class="information-label">running time</span>
+                            <span class="information-content">12 episodes</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">directed by</span>
+                            <span class="information-content">Shinichi Omata</span>
+                        </p>
+                        <p class="information-placeholder">
+                            <span class="information-label">genre</span>
+                            <span class="information-content">
+                                Comedy, Romance, School, Seinen
+                            </span>
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </foreignObject>
+</svg>
