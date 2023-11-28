@@ -7,12 +7,12 @@ I am 0xd011f4ce, but you can call me Dollface. Welcome to my little corner of Gi
 - 👧💻 Software and full-stack developer
 - 💻 Fluent in: C, Python, JavaScript
 - 🛠️ Kernel and compiler developer, decentralisation lover
-- 🌐 Currently focusing on full-stack development with Sass, HTML, Django and React
+- 🌐 Currently focusing on full-stack development with Sass, HTML, Express, MongoDB, Mongoose and React
 
 ## Tech Stack
 
 - **Languages**: C, Python, JavaScript
-- **Frameworks**: Django, React
+- **Frameworks**: Express, Mongoose, React
 
 ## Projects
 
