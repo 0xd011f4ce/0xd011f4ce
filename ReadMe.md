@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on fullstack development<br>👯 I’m looking to collaborate on cool, free, and decentralized applications<br>🌱 I’m currently learning Django, and React<br>💬 Ask me about free software, and decentralization
+🔭 I’m currently working on fullstack development<br>👯 I’m looking to collaborate on cool, free, and decentralized applications<br>🌱 I’m currently learning Laravel, and React<br>💬 Ask me about free software, and decentralization
 
 
 ## 🌐 Socials:
