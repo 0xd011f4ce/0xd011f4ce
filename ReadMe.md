@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **awesome Laravel projects**
 
-- 🌱 I’m currently learning **Laravel, and React**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **decentralized, and free applications**
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xd011f4ce](https://github.com/0xd011f4ce)
 
-- 📝 I regularly write articles on [https://lyxincyberia.org](https://lyxincyberia.org)
+- 📝 I regularly write articles on [https://quadword.org](https://quadword.org)
 
 - 💬 Ask me about **free software, and decentralization**
 
-- 📫 How to reach me **lyx@lyxincyberia.org**
+- 📫 How to reach me **lyx@quadword.org**
 
 - ⚡ Fun fact **Don't ask me which are my favourite authors, because I won't shut up about it hehe**
 
